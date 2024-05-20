@@ -1,0 +1,23 @@
+#cabecera {
+    background-color: rgb(0, 9, 141);
+    color: white;
+}
+
+#parrafo {
+    font-size: 16px;
+    margin: 20px;
+    background-color: rgb(255, 0, 0);
+}
+
+#boton {
+    background-color: green;
+    cursor: pointer;
+}
+
+#boton:hover {
+    background-color: brown;
+}
+
+body {
+    background-image: url(aprobado.jpg);
+}
